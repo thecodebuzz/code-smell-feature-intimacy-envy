@@ -69,15 +69,15 @@ namespace FeatureEnvySmell
     {
         public string GetStreetName()
         {
-            return "1 Tower Square HartFord";
+            return "Medison Square";
         }
         public string GetCity()
         {
-            return "HartFord";
+            return "NewYork";
         }
         public string GetState()
         {
-            return "CT";
+            return "NY";
         }
     }
 
@@ -107,11 +107,11 @@ namespace FeatureEnvySmellResolved
     {
         public string GetStreetName()
         {
-            return "1 Tower Square HartFord";
+            return "Medison Square";
         }
         public string GetCity()
         {
-            return "HartFord";
+            return "Newyork";
         }
         public string GetState()
         {
