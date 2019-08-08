@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{3BCE531E-ADAC-431B-A8C8-CB5FEAC8009B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeSmell-Inappropriate-Intimacy", "ConsoleApp3\CodeSmell-Inappropriate-Intimacy.csproj", "{3BCE531E-ADAC-431B-A8C8-CB5FEAC8009B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
